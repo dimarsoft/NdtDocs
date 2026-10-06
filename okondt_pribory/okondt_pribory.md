@@ -4,6 +4,8 @@
 Сайты: www.okondt.com, www.okondt.de, www.ndt.com.ua
 Каталог продукции: https://www.ndt.com.ua/en/products
 
+**Скачанные документы и переводы по методам контроля: [README.md](README.md)**
+
 ---
 
 ## 1. UDS2-73 SWP (прибор с брошюры)
